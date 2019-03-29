@@ -8,3 +8,5 @@
 
 ## Spring源码自定义注释
 
+## Oracle便捷语句
+  存放目录/SQL 下，用ORACLE_开始描述。
